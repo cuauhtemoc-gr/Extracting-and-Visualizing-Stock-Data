@@ -13,7 +13,5 @@ Extracting essential data from a dataset and displaying it is a necessary part o
         <li>Question 5: Plot Tesla Stock Graph</li>
         <li>Question 6: Plot GameStop Stock Graph</li>
     </ul>
-<p>
-    Estimated Time Needed: <strong>30 min</strong></p>
 </div>
 <hr>
